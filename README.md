@@ -4,7 +4,7 @@
 
 ## 📌 Overview
 
-** Password Vault & Credential Management System ** is a web-based application developed using **Java, Spring Boot, and MySQL**.
+Password Vault & Credential Management System is a web-based application developed using **Java, Spring Boot, and MySQL**.
 The application provides a secure and user-friendly platform for managing [describe your main functionality].
 
 The project demonstrates concepts such as **REST APIs, Spring Boot, database integration, authentication, validation, and CRUD operations**.
