@@ -355,25 +355,4 @@ Content-Type: application/json
 * 🔍 **Breach Monitoring**: Live integration with HaveIBeenPwned API for instant dark web leak detection.
 * 🛡️ **Role-Based Enterprise Teams**: Shared organizational vaults with role-based access control (RBAC).
 
----
 
-## 👨‍💻 Author
-
-### Rabindra Dakua
-**MCA | Java Backend Developer**
-
-* 🐙 **GitHub**: [github.com/rabindra-dakua](https://github.com/098Rabindra/Rabindra_Dakua_Batch2.git)
-* 💼 **LinkedIn**: [linkedin.com/in/rabindra-dakua](www.linkedin.com/in/rabindra-dakua)
-* 📧 **Email**: [drajapreinsta@gmail.com](mailto:drajapreinsta@gmail.com)
-
----
-
-## ⭐ Support
-
-If you find this project helpful or educational, please give it a ⭐ on GitHub!
-
----
-
-## 📄 License
-
-This project is open-sourced under the MIT License for educational and development purposes.
