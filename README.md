@@ -278,18 +278,6 @@ CREATE TABLE vault_items (
 | `GET`  | `/api/reports/login-activity`        | Get login activity audit breakdown       | ✅            |
 | `GET`  | `/api/health`                        | Backend service health check             | ❌            |
 
----
-
-## 📸 Screenshots & UI Preview
-
-### 1. Dashboard Overview
-![Dashboard](docs/screenshots/dashboard.png)
-
-### 2. Vault Item Management & Generator
-![Vault Items](docs/screenshots/vault.png)
-
-### 3. Password Health & Audit Analytics
-![Health Analytics](docs/screenshots/health.png)
 
 ---
 
