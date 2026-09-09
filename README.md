@@ -374,8 +374,8 @@ Content-Type: application/json
 ### Rabindra Dakua
 **MCA | Java Backend Developer**
 
-* 🐙 **GitHub**: [github.com/rabindra-dakua](https://github.com/rabindra-dakua) *(Update with your link)*
-* 💼 **LinkedIn**: [linkedin.com/in/rabindra-dakua](https://linkedin.com/in/rabindra-dakua) *(Update with your link)*
+* 🐙 **GitHub**: [github.com/rabindra-dakua](https://github.com/098Rabindra/Rabindra_Dakua_Batch2.git)
+* 💼 **LinkedIn**: [linkedin.com/in/rabindra-dakua](https://linkedin.com/in/rabindra-dakua)
 * 📧 **Email**: [drajapreinsta@gmail.com](mailto:drajapreinsta@gmail.com)
 
 ---
